@@ -1,5 +1,6 @@
 import { DomElementSchemaRegistry } from '@angular/compiler';
 import { SchemaMetadata } from '@angular/core';
+
 const tags: Object = {
     webview: {
         src: true,
